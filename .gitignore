@@ -131,3 +131,6 @@ Old Files/
 
 # Ignore scores folder
 scores/
+
+# Ignore .idea folder
+.idea/
