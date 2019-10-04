@@ -6,7 +6,7 @@ my Python scripts followed the 'collection' format, a file format compatible wit
 *Note:* As this was a personal project, I did not create any concrete test files, though I did comment my code thoroughly.
 As is such, this is not a complete representation of my professional work ethic.
 
-## Aproach
+### Aproach
 I decided to create an abstract fractal algorithm that I could apply to most any musical trait. Of these traits, I applied my 
 algorithm to `frequency`, `duration`, `rhythm`, and `Frequency Modulation ratios (FM)` (a form of distortion). There are 
 certainly more traits than those listed above; however, those are the traits I was able to implement given the one month time
@@ -16,12 +16,12 @@ Additionally, I wanted the ability to generate a fractal pattern simply from a `
 my main function in my Python scripts parses a `string` and converts it into a fractal object. Once complete, that
 fractal can then be applied to any musical trait (that has been implemented).
 
-## Tech Stack
+### Tech Stack
 This project used Python to generate the scores, PyCharm as the IDE to edit and test these scripts, and Max/MSP to interpret
 and produce tones from these scores. JSON files were used as inputs to the Python scripts to generate the same scores
 consistently.
 
-## Collection File Format
+### Collection File Format
 The format of collections in text files is as follows
 ```
 1 "my_value"
