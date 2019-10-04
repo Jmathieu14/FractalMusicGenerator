@@ -30,6 +30,7 @@ The format of collections in text files is as follows
 4 "the 3rd value was an integer!"
 5 6.8
 ```
+This is a file format compatible with Max/MSP
 
 # The Music
 Some of the results of this program ended up being rather interesting, though a few of them benefitted from personal editing.
