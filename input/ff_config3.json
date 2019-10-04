@@ -1,0 +1,53 @@
+[
+  {
+    "piece_name":"song_2_lossless",
+    "depth":5,
+    "pattern_length":3,
+    "seed_parse_mode":"hex_to_dec",
+    "voices":[
+      {
+        "master_scalar":{"min":0.5, "max":1.0},
+        "pitch_inst":{
+          "pitch_coll":{
+            "mode": "GENERATE",
+            "base_pitch": 20,
+            "base_mult": 2,
+            "octave_div": 14,
+            "write_to_file": 1
+          },
+          "seed":"y9%$G_99$$y9%_%G_$$y9y_$Gy$%_9____$9",
+          "use_master_scalar":1,
+          "EOS":1280.0
+        },
+        "duration_inst":{
+          "duration_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":20.0,
+              "max_num":450.0,
+              "scalar":1.25
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":15.0
+        },
+        "rhythm_inst":{
+          "rhythm_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":25.0,
+              "max_num":450.0,
+              "scalar":1.25
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":25.0
+        }
+      }
+    ]
+  }
+]

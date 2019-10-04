@@ -1,0 +1,150 @@
+[
+  {
+    "piece_name":"my_first_songv2",
+    "depth":5,
+    "pattern_length":5,
+    "seed_parse_mode":"hex_to_dec_lossy",
+    "voices":[
+      {
+        "master_scalar":{"min":0.33, "max":0.85},
+        "pitch_inst":{
+          "pitch_coll":{
+            "mode": "GENERATE",
+            "base_pitch": 33,
+            "base_mult": 3,
+            "octave_div": 27,
+            "write_to_file": 1
+          },
+          "seed":"Repremande6opsRenalip6spoapprrnahm8dreft",
+          "use_master_scalar":1,
+          "EOS":120.0
+        },
+        "duration_inst":{
+          "duration_coll":{
+            "mode":"GENERATE",
+            "method":"asc",
+            "params": {
+              "base_num":10.0,
+              "max_num":300.0,
+              "iter":1.77
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":300.0
+        },
+        "rhythm_inst":{
+          "rhythm_coll":{
+            "mode":"GENERATE",
+            "method":"asc",
+            "params": {
+              "base_num":10.0,
+              "max_num":250.0,
+              "iter":1.0
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":300.0
+        },
+        "ratio1_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"desc",
+            "params": {
+              "base_num":0.111111,
+              "max_num":3.0,
+              "iter":0.055555
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":3.333333
+        },
+        "ratio2_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"asc",
+            "params": {
+              "base_num":0.111111,
+              "max_num":3.0,
+              "iter":0.055555
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":0.333333
+        }
+      },
+      {
+        "master_scalar":{"min":0.33, "max":0.85},
+        "pitch_inst":{
+          "pitch_coll":{
+            "mode": "GENERATE",
+            "base_pitch": 11,
+            "base_mult": 3,
+            "octave_div": 27,
+            "write_to_file": 1
+          },
+          "seed":"Repremande6opsRenalip6spoapprrnahm8dreft",
+          "use_master_scalar":1,
+          "EOS":60.0
+        },
+        "duration_inst":{
+          "duration_coll":{
+            "mode":"GENERATE",
+            "method":"asc",
+            "params": {
+              "base_num":20.0,
+              "max_num":600.0,
+              "iter":3.54
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":600.0
+        },
+        "rhythm_inst":{
+          "rhythm_coll":{
+            "mode":"GENERATE",
+            "method":"asc",
+            "params": {
+              "base_num":20.0,
+              "max_num":500.0,
+              "iter":2.0
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":300.0
+        },
+        "ratio1_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"asc",
+            "params": {
+              "base_num":0.111111,
+              "max_num":3.0,
+              "iter":0.055555
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":3.333333
+        },
+        "ratio2_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"repeat",
+            "params": {
+              "base_num":1.0
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":0.333333
+        }
+      }
+    ]
+  }
+]

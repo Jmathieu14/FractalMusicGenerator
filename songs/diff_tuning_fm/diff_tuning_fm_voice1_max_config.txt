@@ -1,0 +1,7 @@
+1 1
+2 99NEW_VOICE99
+3 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/diff_tuning_fm/scores/v1p7_type_min30_max80_pitches54554e44e4554_score_d3.txt
+4 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/diff_tuning_fm/scores/v1p7_type_min30_max80_duration54554e44e4554_score_d3.txt
+5 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/diff_tuning_fm/scores/v1p7_type_min30_max80_rhythm54554e44e4554_score_d3.txt
+6 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/diff_tuning_fm/scores/v1p7_type_min30_max80_ratio154554e44e4554_score_d3.txt
+7 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/diff_tuning_fm/scores/v1p7_type_min30_max80_ratio254554e44e4554_score_d3.txt

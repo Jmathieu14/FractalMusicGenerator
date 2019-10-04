@@ -1,0 +1,51 @@
+[
+  {
+    "piece_name":"using_modes",
+    "depth":4,
+    "pattern_length":5,
+    "seed_parse_mode":"hex_to_dec",
+    "voices":[
+      {
+        "master_scalar":{"min":0.3, "max":0.6},
+        "pitch_inst":{
+          "pitch_coll":{
+            "mode": "GENERATE",
+            "base_pitch": 27.5,
+            "base_mult": 2,
+            "octave_div": 12,
+            "write_to_file": 1,
+            "scale_mode":[4, 5, 7, 9, 11]
+          },
+          "seed":"MODESOMDODDSMSSEMEOESSESO",
+          "use_master_scalar":1
+        },
+        "duration_inst":{
+          "duration_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":70.0,
+              "max_num":1000.0,
+              "scalar":1.125
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        },
+        "rhythm_inst":{
+          "rhythm_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":70.0,
+              "max_num":1200.0,
+              "scalar":1.125
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        }
+      }
+    ]
+  }
+]

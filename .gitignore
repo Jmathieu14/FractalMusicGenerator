@@ -121,3 +121,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore Old Files folder
+Old Files/
+
+# Ignore .aiff files
+*.aiff
+*.aif
+
+# Ignore scores folder
+scores/

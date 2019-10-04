@@ -1,0 +1,5 @@
+1 1
+2 99NEW_VOICE99
+3 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/using_modes/scores/v1p5_type_min30_max60_pitches4d4f44445534f_score_d4.txt
+4 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/using_modes/scores/v1p5_type_min30_max60_duration4d4f44445534f_score_d4.txt
+5 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/using_modes/scores/v1p5_type_min30_max60_rhythm4d4f44445534f_score_d4.txt

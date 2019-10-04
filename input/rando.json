@@ -1,0 +1,76 @@
+[
+  {
+    "piece_name":"rando",
+    "depth":3,
+    "pattern_length":17,
+    "seed_parse_mode":"hex_to_dec",
+    "voices":[
+      {
+        "master_scalar":{"min":0.0, "max":1.0},
+        "pitch_inst":{
+          "pitch_coll":{
+            "mode": "GENERATE",
+            "base_pitch": 21,
+            "base_mult": 2,
+            "octave_div": 51,
+            "write_to_file": 1
+          },
+          "seed":"iohoaihfasdlkfaweoailhseiaihehieoohhifdhsoohssddslaohhfaaflhawahehiiaohofshoohffflafhiiolaoisfwkelfafdhdkaaeflshdihdsaffokfeailioowlafiiahhdsofliwwawhfoasodalehoklolaiededahwhliiesoswehialwaehshdhwaioaodfkafwahikafdhehoiiffsasaiaeiikaklilaaohhaahaaasasaiawflkhasfofeafkiiiewaashfhdhsfalfaw",
+          "use_master_scalar":1
+        },
+        "duration_inst":{
+          "duration_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":20.0,
+              "max_num":8000.0,
+              "scalar":1.05
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        },
+        "rhythm_inst":{
+          "rhythm_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":60.0,
+              "max_num":8000.0,
+              "scalar":1.05
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        },
+        "ratio1_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"mult_desc",
+            "params": {
+              "base_num":1.0,
+              "max_num":2.7,
+              "scalar":1.033424
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        },
+        "ratio2_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"mult_desc",
+            "params": {
+              "base_num":1.0,
+              "max_num":3.0,
+              "scalar":1.055555
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        }
+      }
+    ]
+  }
+]

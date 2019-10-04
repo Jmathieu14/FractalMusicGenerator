@@ -1,0 +1,53 @@
+[
+  {
+    "piece_name":"intro_fractal_song",
+    "depth":3,
+    "pattern_length":4,
+    "seed_parse_mode":"hex_to_dec",
+    "voices":[
+      {
+        "master_scalar":{"min":0.4, "max":0.6},
+        "pitch_inst":{
+          "pitch_coll":{
+            "mode": "GENERATE",
+            "base_pitch": 27.5,
+            "base_mult": 2,
+            "octave_div": 12,
+            "write_to_file": 1
+          },
+          "seed":"0595590Q9095",
+          "use_master_scalar":1,
+          "EOS":220.0
+        },
+        "duration_inst":{
+          "duration_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":40.0,
+              "max_num":1000.0,
+              "scalar":1.33333
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":200.0
+        },
+        "rhythm_inst":{
+          "rhythm_coll":{
+            "mode":"GENERATE",
+            "method":"mult_asc",
+            "params": {
+              "base_num":45.0,
+              "max_num":1200.0,
+              "scalar":1.33333
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1,
+          "EOS":400.0
+        }
+      }
+    ]
+  }
+]

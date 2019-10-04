@@ -1,0 +1,7 @@
+1 1
+2 99NEW_VOICE99
+3 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/songs/rando/scores/v1p17_type_min0_max100_pitches696f686666177_score_d3.txt
+4 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/songs/rando/scores/v1p17_type_min0_max100_duration696f686666177_score_d3.txt
+5 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/songs/rando/scores/v1p17_type_min0_max100_rhythm696f686666177_score_d3.txt
+6 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/songs/rando/scores/v1p17_type_min0_max100_ratio1696f686666177_score_d3.txt
+7 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/songs/rando/scores/v1p17_type_min0_max100_ratio2696f686666177_score_d3.txt

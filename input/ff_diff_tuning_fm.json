@@ -1,0 +1,76 @@
+[
+  {
+    "piece_name":"diff_tuning_fm",
+    "depth":3,
+    "pattern_length":7,
+    "seed_parse_mode":"hex_to_dec",
+    "voices":[
+      {
+        "master_scalar":{"min":0.3, "max":0.8},
+        "pitch_inst":{
+          "pitch_coll":{
+            "mode": "GENERATE",
+            "base_pitch": 27.5,
+            "base_mult": 3,
+            "octave_div": 19,
+            "write_to_file": 1
+          },
+          "seed":"TUNE_M3U__3TM_NNU_UNTEEUTMET_E_MENUMNNTT3N3_TTNET",
+          "use_master_scalar":1
+        },
+        "duration_inst":{
+          "duration_coll":{
+            "mode":"GENERATE",
+            "method":"mult_desc",
+            "params": {
+              "base_num":70.0,
+              "max_num":800.0,
+              "scalar":1.125
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        },
+        "rhythm_inst":{
+          "rhythm_coll":{
+            "mode":"GENERATE",
+            "method":"mult_desc",
+            "params": {
+              "base_num":70.0,
+              "max_num":800.0,
+              "scalar":1.125
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        },
+        "ratio1_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"desc",
+            "params": {
+              "base_num":0.0893,
+              "max_num":2.7,
+              "iter":0.033424
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        },
+        "ratio2_inst":{
+          "ratio_coll":{
+            "mode":"GENERATE",
+            "method":"asc",
+            "params": {
+              "base_num":0.111111,
+              "max_num":3.0,
+              "iter":0.055555
+            }
+          },
+          "use_master_scalar":1,
+          "seed":1
+        }
+      }
+    ]
+  }
+]

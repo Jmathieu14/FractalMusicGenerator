@@ -1,0 +1,7 @@
+1 1
+2 99NEW_VOICE99
+3 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/harmonic_schmonic/scores/v2p7_type_min10_max40_pitches3039313323239_score_d3.txt
+4 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/harmonic_schmonic/scores/v2p7_type_min40_max70_duration3039313323239_score_d3.txt
+5 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/harmonic_schmonic/scores/v2p7_type_min40_max70_rhythm3039313323239_score_d3.txt
+6 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/harmonic_schmonic/scores/v2p7_type_min10_max40_ratio13039313323239_score_d3.txt
+7 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/harmonic_schmonic/scores/v2p7_type_min10_max40_ratio23039313323239_score_d3.txt

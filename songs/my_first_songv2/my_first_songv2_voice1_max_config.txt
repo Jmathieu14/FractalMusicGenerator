@@ -1,0 +1,7 @@
+1 1
+2 99NEW_VOICE99
+3 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/my_first_songv2/scores/v1p5_type_min33_max85_pitches5265707656674_score_d5.txt
+4 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/my_first_songv2/scores/v1p5_type_min33_max85_duration5265707656674_score_d5.txt
+5 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/my_first_songv2/scores/v1p5_type_min33_max85_rhythm5265707656674_score_d5.txt
+6 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/my_first_songv2/scores/v1p5_type_min33_max85_ratio15265707656674_score_d5.txt
+7 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/my_first_songv2/scores/v1p5_type_min33_max85_ratio25265707656674_score_d5.txt

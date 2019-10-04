@@ -1,0 +1,5 @@
+1 1
+2 99NEW_VOICE99
+3 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/song_2/scores/v1p3_type_min40_max90_pitches6264666616467_score_d5.txt
+4 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/song_2/scores/v1p3_type_min40_max90_duration6264666616467_score_d5.txt
+5 C:/Users/jmath/PycharmProjects/FractalMusicGenerator/song_2/scores/v1p3_type_min40_max90_rhythm6264666616467_score_d5.txt
