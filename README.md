@@ -6,8 +6,8 @@ my Python scripts followed the 'collection' format, a file format compatible wit
 **Note:** *As this was a personal project, I did not create any concrete test files, though I did comment my code thoroughly. As is such, this is not a complete representation of my professional work ethic.*
 
 ### Aproach
-I decided to create an abstract fractal algorithm that I could apply to most any musical trait. Of these traits, I applied my 
-algorithm to `frequency`, `duration`, `rhythm`, and `Frequency Modulation ratios (FM)` (a form of distortion). There are 
+I decided to create an abstract fractal algorithm that I could apply to most any musical trait. Of these traits, I applied my
+algorithm to `frequency`, `duration`, `rhythm`, and `Frequency Modulation ratios (FM)` (a form of distortion). There are
 certainly more traits than those listed above; however, those are the traits I was able to implement given the one month time
 constraint I had to produce fractally generated music.
 
@@ -36,6 +36,6 @@ Some of the results of this program ended up being rather interesting, though a 
 A select few of these musical sequences can be heard here: https://soundcloud.com/jacques_mathieu/sets/fractal-music
 
 ### Contact
-If you have any questions about this project or would like to see the Max/MSP patch used for this project, feel free to 
+If you have any questions about this project or would like to see the Max/MSP patch used for this project, feel free to
 email me at: mathieu.j@husky.neu.edu
-You may also visit my website at: https://tinyurl.com/y9d24cat
+You may also visit my website at: https://tinyurl.com/jmath-portfolio
